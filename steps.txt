@@ -76,11 +76,11 @@ version-1.0:just press enter
 package:com.bnmit
 press Y
 -------
+cd sample-app
 mvn package
 mvn clean
 mvn site
 sample-app-->src-->main-->java-->com-->bnmit-->app.java-->open file and paste the Bank Application Code 
-cd sample-app
 mvn clean
 mvn package
 cd target
@@ -124,6 +124,7 @@ new->pipeline->log rotation(5,5)
 pipeline script with svm->git->give url and credentials
 apply and save 
 ====================================================
+
 
 
 
