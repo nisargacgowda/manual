@@ -54,7 +54,7 @@ git checkout main
 git pull origin main
 ====================================================
 exp5:
-continue exp4
+do exp 3 and continue
 to create tag: git tag v1.0
 to view tags: git tag
 to create anotated tag: git tag -a v1.2 -m "v1.2 created"
@@ -124,6 +124,7 @@ new->pipeline->log rotation(5,5)
 pipeline script with svm->git->give url and credentials
 apply and save 
 ====================================================
+
 
 
 
