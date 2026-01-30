@@ -18,6 +18,7 @@ git branch
 git branch feature-branch
 git checkout feature-branch
 touch readme.txt report.xml index.html .gitignore error.log(enter)
+git merge feature-branch
 go to any of the folder and type something
 git add .
 git commit -m "msg"
@@ -123,6 +124,7 @@ new->pipeline->log rotation(5,5)
 pipeline script with svm->git->give url and credentials
 apply and save 
 ====================================================
+
 
 
 
